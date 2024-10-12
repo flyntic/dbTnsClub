@@ -1,20 +1,17 @@
 {
-	"users": [{
-			"id": 1,
+	"users": [{	"id": 1,
 			"name": "Анна",
 			"lastname": "Карманова",
-			"email": "duduka@mail.ru"
-			
-		}
-	],
+			"email": "duduka@mail.ru"	
+		}],
 	"courts": [{
 			"id": 1,
 			"name": "Первый"
-		},
-		{
+		  },
+		  {
 			"name": "Второй",
 			"id": 2
-		}
+		 }
 	],
 	"dates": [{
 			"id": 1,
@@ -103,14 +100,12 @@
 			"details": ""
 		}
 	],
-	"books": [{
-					"date": "11.12.2024",
+	"books": [{			"date": "11.12.2024",
 					"time": "8:00-9:30",
 					"court": "Второй",
 					"status": "Оплачено"
 				},
-				{
-					"date": "17.12.2024",
+				{	"date": "17.12.2024",
 					"time": "8:00-9:30",
 					"court": "Первый",
 					"status": "Не оплачено"
